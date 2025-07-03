@@ -2,6 +2,9 @@ import re
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import matplotlib
+matplotlib.rc('font', family='Malgun Gothic')
+matplotlib.rcParams['axes.unicode_minus'] = False
 from datetime import datetime
 
 # 로그 파일 경로

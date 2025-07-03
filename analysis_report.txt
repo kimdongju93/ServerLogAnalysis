@@ -1,0 +1,57 @@
+==== 서버 로그 분석 요약 ====
+총 요청 수: 7638
+
+[시간별 요청 건수]
+hour
+0      463
+1      346
+2       37
+3       50
+4      783
+5     1833
+6     1955
+7     1747
+8       39
+9       38
+10      34
+11      38
+12      44
+13      35
+14      18
+15      28
+16      27
+17      15
+18      15
+19      21
+20      19
+21      22
+22      14
+23      17
+dtype: int64
+
+[엔드포인트별 통계]
+                     count    avg_resp  p90_resp
+endpoint                                        
+/api/product/list     1678  176.127533     276.0
+/api/user/list        1651  139.227135     189.0
+/api/user/login       1304  175.262270     277.0
+/api/order/create      857  377.854142     555.4
+/api/product/detail    841  179.190250     282.0
+/api/user/logout       444  173.506757     268.7
+/api/admin/stats       442  731.909502    1084.9
+/api/order/cancel      421  170.030879     269.0
+
+[상태 코드 분포]
+status
+2xx    6014
+4xx    1225
+5xx     399
+Name: count, dtype: int64
+
+[가장 느린 엔드포인트] /api/admin/stats
+count        442.000000
+avg_resp     731.909502
+p90_resp    1084.900000
+Name: /api/admin/stats, dtype: float64
+
+[평균 응답시간이 가장 높은 시간대] 19시, 평균 247.6ms
