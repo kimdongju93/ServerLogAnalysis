@@ -1,0 +1,17 @@
+2025-07-04 10:14:42,784 - log_generator - INFO - 로그 생성 시작
+2025-07-04 10:14:42,784 - log_generator - INFO - 새로운 로그 파일 생성 시작
+2025-07-04 10:14:42,786 - log_generator - INFO - 초기 로그 100개 생성 완료: server_sample.log
+2025-07-04 10:14:42,787 - log_generator - INFO - 실시간 로그 추가 시작
+2025-07-04 10:24:35,480 - log_generator - INFO - 로그 생성 시작
+2025-07-04 10:24:35,480 - log_generator - INFO - 새로운 로그 파일 생성 시작
+2025-07-04 10:24:35,483 - log_generator - INFO - 초기 로그 100개 생성 완료: server_sample.log
+2025-07-04 10:24:35,483 - log_generator - INFO - 실시간 로그 추가 시작
+2025-07-04 13:46:05,999 - log_generator - INFO - 로그 생성 시작
+2025-07-04 13:46:05,999 - log_generator - INFO - 새로운 로그 파일 생성 시작
+2025-07-04 13:46:06,001 - log_generator - INFO - 초기 로그 100개 생성 완료: server_sample.log
+2025-07-04 13:46:06,001 - log_generator - INFO - 실시간 로그 추가 시작
+2025-07-04 13:52:10,481 - log_generator - INFO - 로그 생성 시작
+2025-07-04 13:52:10,481 - log_generator - INFO - 새로운 로그 파일 생성 시작
+2025-07-04 13:52:10,482 - log_generator - INFO - 초기 로그 100개 생성 완료: server_sample.log
+2025-07-04 13:52:10,483 - log_generator - INFO - 실시간 로그 추가 시작
+2025-07-04 13:57:51,198 - log_generator - INFO - 사용자에 의해 로그 생성이 중단되었습니다
